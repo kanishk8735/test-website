@@ -1,0 +1,8 @@
+:HL["/test-website/_next/static/chunks/0m1gf4utu0iii.css","style"]
+:HL["/test-website/_next/static/media/01d6212a423b17a1-s.p.1pvupmngxrt5z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/test-website/_next/static/media/6f3ab718e3727c1a-s.p.3huc2loe0ie8a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/test-website/_next/static/media/b190af36c9e7f718-s.p.1t1ox7t-8xjh-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/test-website/img/g4.jpg","image",{"fetchPriority":"high"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":{"n":"slug","t":"d","k":"corporate","s":["about-us","blog","contact-us","gallery","privacy-policy","terms","testimonial"]},"h":65600,"c":"$Q2"}]]
+0:{"b":"Ie3Bdbne8DNgmg9YOmRLC","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
